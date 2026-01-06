@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **PT Delameta Bilano**
 
-- 👨‍💻 All of my projects are available at [https://rizqikevin.github.io/](https://rizqikevin.github.io/)
-
 - 📫 How to reach me **rizqikevino@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
